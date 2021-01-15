@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Luke Honnold</title>
+    <title>Categories on </title>
     <link>https://lukeh17.github.io/categories/</link>
-    <description>Recent content in Categories on Luke Honnold</description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lukeh17.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukeh17.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graphic Design</title>
+      <link>https://lukeh17.github.io/categories/graphic-design/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://lukeh17.github.io/categories/graphic-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile App</title>
+      <link>https://lukeh17.github.io/categories/mobile-app/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://lukeh17.github.io/categories/mobile-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Game</title>
+      <link>https://lukeh17.github.io/categories/mobile-game/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://lukeh17.github.io/categories/mobile-game/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

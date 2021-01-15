@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://lukeh17.github.io/</link>
-    <description>Recent content on </description>
+    <title>Portfolio on </title>
+    <link>https://lukeh17.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukeh17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukeh17.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class Project</title>
       <link>https://lukeh17.github.io/portfolio/project-4/</link>
