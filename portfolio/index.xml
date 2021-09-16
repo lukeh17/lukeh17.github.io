@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on </title>
-    <link>https://lukehonnold.com/portfolio/</link>
+    <link>https://lukeh17.github.io/portfolio/</link>
     <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukehonnold.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukeh17.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class Project</title>
-      <link>https://lukehonnold.com/portfolio/project-4/</link>
+      <link>https://lukeh17.github.io/portfolio/project-4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukehonnold.com/portfolio/project-4/</guid>
+      <guid>https://lukeh17.github.io/portfolio/project-4/</guid>
       <description>This app design is for a class project I did in a human computer iteration class at Drake University.</description>
     </item>
     
     <item>
       <title>Farmmee</title>
-      <link>https://lukehonnold.com/portfolio/project-3/</link>
+      <link>https://lukeh17.github.io/portfolio/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukehonnold.com/portfolio/project-3/</guid>
+      <guid>https://lukeh17.github.io/portfolio/project-3/</guid>
       <description>Farmmee is the flutter application I worked on with Applifts. I created the user interface and helped work on programming the front and back-end of the application.</description>
     </item>
     
     <item>
       <title>Llama Jetpacks</title>
-      <link>https://lukehonnold.com/portfolio/project-5/</link>
+      <link>https://lukeh17.github.io/portfolio/project-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukehonnold.com/portfolio/project-5/</guid>
+      <guid>https://lukeh17.github.io/portfolio/project-5/</guid>
       <description>This is one of the logos I created in one of my graphic design courses at Drake University.</description>
     </item>
     
     <item>
       <title>Lobster Roll</title>
-      <link>https://lukehonnold.com/portfolio/project-6/</link>
+      <link>https://lukeh17.github.io/portfolio/project-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukehonnold.com/portfolio/project-6/</guid>
+      <guid>https://lukeh17.github.io/portfolio/project-6/</guid>
       <description>This is one of the logos I created in one of my graphic design courses at Drake University.</description>
     </item>
     
     <item>
       <title>Mucho Lucho</title>
-      <link>https://lukehonnold.com/portfolio/project-2/</link>
+      <link>https://lukeh17.github.io/portfolio/project-2/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukehonnold.com/portfolio/project-2/</guid>
+      <guid>https://lukeh17.github.io/portfolio/project-2/</guid>
       <description>Mucho Lucho is a mobile game I created in Unity and C#.</description>
     </item>
     
     <item>
       <title>Weiner Run</title>
-      <link>https://lukehonnold.com/portfolio/project-1/</link>
+      <link>https://lukeh17.github.io/portfolio/project-1/</link>
       <pubDate>Wed, 31 Dec 1969 18:33:39 -0600</pubDate>
       
-      <guid>https://lukehonnold.com/portfolio/project-1/</guid>
+      <guid>https://lukeh17.github.io/portfolio/project-1/</guid>
       <description>Weiner Run is a mobile game developed in Unity and C#.</description>
     </item>
     
