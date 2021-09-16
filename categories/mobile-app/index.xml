@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile App on </title>
-    <link>https://lukeh17.github.io/categories/mobile-app/</link>
+    <link>https://lukehonnold.com/categories/mobile-app/</link>
     <description>Recent content in Mobile App on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukeh17.github.io/categories/mobile-app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://lukehonnold.com/categories/mobile-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class Project</title>
-      <link>https://lukeh17.github.io/portfolio/project-4/</link>
+      <link>https://lukehonnold.com/portfolio/project-4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukeh17.github.io/portfolio/project-4/</guid>
+      <guid>https://lukehonnold.com/portfolio/project-4/</guid>
       <description>This app design is for a class project I did in a human computer iteration class at Drake University.</description>
     </item>
     
     <item>
       <title>Farmmee</title>
-      <link>https://lukeh17.github.io/portfolio/project-3/</link>
+      <link>https://lukehonnold.com/portfolio/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lukeh17.github.io/portfolio/project-3/</guid>
+      <guid>https://lukehonnold.com/portfolio/project-3/</guid>
       <description>Farmmee is the flutter application I worked on with Applifts. I created the user interface and helped work on programming the front and back-end of the application.</description>
     </item>
     
