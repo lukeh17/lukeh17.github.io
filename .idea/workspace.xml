@@ -1,16 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec092199-83d2-4fd3-93b4-94c9782b443d" name="Default Changelist" comment="" />
+    <list default="true" id="ec092199-83d2-4fd3-93b4-94c9782b443d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/graphic-design/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/graphic-design/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/mobile-app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/mobile-app/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/mobile-game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/mobile-game/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.1cb140d8ba31d5b2f1114537dd04802a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.7e7787cc1402d7de28bc90f7e65adf96.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.e6e75cdafe2e909dacfabeb26857f994.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.3fc0f988d21662902933.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BwNistaInt-xBd.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gohugo-default-sample-hero-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/google-map/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jQuery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/shuffle/shuffle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/themify-icons/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/project-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/project-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/project-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/project-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/project-5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/project-6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/dots-cyan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/dots-group-cyan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/dots-group-orange.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/dots-group-sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/dots-group-v.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/dots-orange.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-bg-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-cyan-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-cyan-lg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-cyan.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-orange.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-pink-round.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-pink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/leaf-yellow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/page-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/illustrations/page-title.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LlamaJetPacksBusinessCard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LlamaJetpacks.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LlamaJetpacksBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LlamaJetpacksHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LobsterRoll.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LobsterRollBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LobsterRollBusinessCard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/LobsterRollHat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/cs195.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/cs1952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/cs1953.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/cs1954.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/farmmee-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/farmmee1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/farmmee2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/farmmee3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/farmmee4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/farmmee5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/mucholucho1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/mucholucho2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/mucholucho3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/mucholucho4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/mucholucho5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/weinerrun1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/weinerrun2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/weinerrun3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/portfolio/weinerrun4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/preloader.gif" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20falQTu0JsJ3UOhi8AX0zHT1sQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lukeh17.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1636438245945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636438245945</updated>
+      <workItem from="1636438248558" duration="766000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
