@@ -40,6 +40,10 @@ body{
     height: 50vh;
 }
 
+.banner-height-small{
+    height: 20vh;
+}
+
 .work-space{
     height: 30vh;
 }
@@ -76,7 +80,7 @@ body{
     animation: MoveUpDown 2s linear infinite;
     position: absolute;
     left: 50%;
-    bottom: 100px;
+    /*bottom: 100px;*/
 }
 
 @keyframes MoveUpDown {
