@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec092199-83d2-4fd3-93b4-94c9782b443d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Henrys/app-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/app-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/app-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/app-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/app-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/app-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/henrys-hotsauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Henrys/henrys-mobileapp.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Henrys/20210302_200710.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Henrys/20210302_201122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Henrys/Henrys-design-black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Henrys/Henrys-design-white.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +32,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/Henrys" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/Henrys" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/Henrys" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lukeh17.github.io/index.html" useBuiltInWebServerPort="true">
@@ -50,7 +65,9 @@
       <updated>1636438245945</updated>
       <workItem from="1636438248558" duration="964000" />
       <workItem from="1637124807574" duration="567000" />
-      <workItem from="1637198334503" duration="3052000" />
+      <workItem from="1637198334503" duration="3140000" />
+      <workItem from="1637610440480" duration="23000" />
+      <workItem from="1652483950265" duration="6121000" />
     </task>
     <servers />
   </component>
