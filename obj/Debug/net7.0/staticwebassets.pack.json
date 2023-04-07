@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/.DS_Store",
+      "PackagePath": "staticwebassets/Images/.DS_Store"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/Icons/dark-mode.svg",
+      "PackagePath": "staticwebassets/Images/Icons/dark-mode.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/Icons/light-mode.svg",
+      "PackagePath": "staticwebassets/Images/Icons/light-mode.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/Icons/moon.svg",
+      "PackagePath": "staticwebassets/Images/Icons/moon.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/Icons/sun.svg",
+      "PackagePath": "staticwebassets/Images/Icons/sun.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/Henrys-bottle-black.jpg",
+      "PackagePath": "staticwebassets/Images/henry-js/Henrys-bottle-black.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/Henrys-bottle-white.jpg",
+      "PackagePath": "staticwebassets/Images/henry-js/Henrys-bottle-white.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/Henrys-design-black.png",
+      "PackagePath": "staticwebassets/Images/henry-js/Henrys-design-black.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/Henrys-design-white.png",
+      "PackagePath": "staticwebassets/Images/henry-js/Henrys-design-white.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/app-1.png",
+      "PackagePath": "staticwebassets/Images/henry-js/app-1.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/app-2.png",
+      "PackagePath": "staticwebassets/Images/henry-js/app-2.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/app-3.png",
+      "PackagePath": "staticwebassets/Images/henry-js/app-3.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/app-4.png",
+      "PackagePath": "staticwebassets/Images/henry-js/app-4.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/app-5.png",
+      "PackagePath": "staticwebassets/Images/henry-js/app-5.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/app-6.png",
+      "PackagePath": "staticwebassets/Images/henry-js/app-6.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/henrys-hot-sauce.png",
+      "PackagePath": "staticwebassets/Images/henry-js/henrys-hot-sauce.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/henrys-mobileapp.png",
+      "PackagePath": "staticwebassets/Images/henry-js/henrys-mobileapp.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/henrys-styrofoam1.jpg",
+      "PackagePath": "staticwebassets/Images/henry-js/henrys-styrofoam1.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/henry-js/henrys-styrofoam2.jpg",
+      "PackagePath": "staticwebassets/Images/henry-js/henrys-styrofoam2.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/mucho-lucho/.DS_Store",
+      "PackagePath": "staticwebassets/Images/mucho-lucho/.DS_Store"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/mucho-lucho/Mucho-Lucho.mp4",
+      "PackagePath": "staticwebassets/Images/mucho-lucho/Mucho-Lucho.mp4"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/mucho-lucho/luchador-pixel.png",
+      "PackagePath": "staticwebassets/Images/mucho-lucho/luchador-pixel.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/mucho-lucho/mucholucho1.jpg",
+      "PackagePath": "staticwebassets/Images/mucho-lucho/mucholucho1.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/mucho-lucho/mucholucho3.jpg",
+      "PackagePath": "staticwebassets/Images/mucho-lucho/mucholucho3.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/mucho-lucho/mucholucho4.jpg",
+      "PackagePath": "staticwebassets/Images/mucho-lucho/mucholucho4.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/weiner-run/Weiner-Run-002.mp4",
+      "PackagePath": "staticwebassets/Images/weiner-run/Weiner-Run-002.mp4"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/weiner-run/weiner-fire.png",
+      "PackagePath": "staticwebassets/Images/weiner-run/weiner-fire.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/weiner-run/weinerrun1.jpg",
+      "PackagePath": "staticwebassets/Images/weiner-run/weinerrun1.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/weiner-run/weinerrun2.jpg",
+      "PackagePath": "staticwebassets/Images/weiner-run/weinerrun2.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/weiner-run/weinerrun4.jpg",
+      "PackagePath": "staticwebassets/Images/weiner-run/weinerrun4.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe-logo.svg",
+      "PackagePath": "staticwebassets/Images/wellabe-logo.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
