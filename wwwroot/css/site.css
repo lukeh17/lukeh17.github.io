@@ -47,7 +47,7 @@ body{
 
 .form-check-input{
     height: 2.5em !important;
-    background-color: #373737 !important;
+    background-color: #fed96c !important;
     border: none !important;
     transform: rotate(90deg) !important;
 }
@@ -58,13 +58,13 @@ body{
 }
 
 .form-switch .form-check-input{
-    background-image: url("../Images/Icons/moon.svg") !important;
+    background-image: url("../Images/Icons/sun.svg") !important;
     width: 5em !important;
 }
 
 .form-switch .form-check-input:checked{
-    background-image: url("../Images/Icons/sun.svg") !important;
-    background-color: #fed96c !important;
+    background-image: url("../Images/Icons/moon.svg") !important;
+    background-color: #373737 !important;
 }
 
 .float-element {

@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/obj/Debug/net7.0/build-gz/iIYG1B7r.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
       "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
@@ -127,6 +135,10 @@
     {
       "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe-logo.svg",
       "PackagePath": "staticwebassets/Images/wellabe-logo.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
     },
     {
       "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/bootstrap/bootstrap-grid.css",
@@ -261,8 +273,16 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
       "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/js/bootstrap.bundle.js",
