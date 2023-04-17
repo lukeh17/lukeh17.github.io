@@ -34,6 +34,42 @@ body{
     font-size: 4.5rem;
 }
 
+@media (max-width: 1200px){
+    .massive-font{
+        font-size: 10rem;
+    }
+
+    .big-font{
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 992px){
+    .massive-font{
+        font-size: 7rem;
+    }
+
+    .big-font{
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 768px){
+    .massive-font{
+        font-size: 7rem;
+    }
+}
+
+@media (max-width: 576px){
+    .massive-font{
+        font-size: 4rem;
+    }
+
+    .big-font{
+        font-size: 3rem;
+    }
+}
+
 .small-space{
     height: 250px;
 }
@@ -49,6 +85,9 @@ body{
     height: 2.5em !important;
     background-color: #fed96c !important;
     border: none !important;
+}
+
+.rotate{
     transform: rotate(90deg) !important;
 }
 
