@@ -8,27 +8,19 @@ public partial class NavMenu
 {
     [Inject] private IJSRuntime Js { get; set; }
     
-    private string _mode;
-    private bool _isChecked;
+    private bool _lightDarkMode;
 
-    private async Task SwitchMode()
+    public bool LightDarkMode
     {
-        // _mode = _mode == "light" ? "dark" : "light";
-        // _isChecked = _mode != "dark";
-
-        if (_mode == "light")
+        get => _lightDarkMode;
+        set
         {
-            _mode = "dark";
-            _isChecked = true;
+            _lightDarkMode = value;
+            var mode = value ? "dark" : "light";
+            Js.InvokeVoidAsync("SetTheme", mode);
+            Js.InvokeVoidAsync("AddToStorage", "theme", mode);
+            StateHasChanged();
         }
-        else
-        {
-            _mode = "light";
-            _isChecked = false;
-        }
-
-        await Js.InvokeVoidAsync("SetTheme", _mode);
-        await Js.InvokeVoidAsync("AddToStorage", "theme", _mode);
     }
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
@@ -39,14 +31,12 @@ public partial class NavMenu
 
             if (!string.IsNullOrEmpty(localStorageTheme))
             {
-                _mode = localStorageTheme;
-                _isChecked = _mode != "dark";
+                LightDarkMode = localStorageTheme != "light";
             }
             else
             {
                 var systemTheme = await Js.InvokeAsync<string>("GetSystemTheme");
-                _mode = systemTheme;
-                _isChecked = _mode != "dark";
+                LightDarkMode = systemTheme != "light";
             } 
         }
     }
