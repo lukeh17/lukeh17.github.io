@@ -137,6 +137,78 @@
       "PackagePath": "staticwebassets/Images/wellabe-logo.svg"
     },
     {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/.DS_Store",
+      "PackagePath": "staticwebassets/Images/wellabe/.DS_Store"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/combo-app-dark.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/combo-app-dark.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/combo-app.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/combo-app.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/dashboard-dark.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/dashboard-dark.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/dashboard-light.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/dashboard-light.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/dashboard-mobile-slide-up.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/dashboard-mobile-slide-up.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/dashboard-mobile.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/dashboard-mobile.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/dashboard-tablet.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/dashboard-tablet.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/login-dark.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/login-dark.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/myenroller/login-light.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/myenroller/login-light.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-home.png",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-home.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-logo-yellow.svg",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-logo-yellow.svg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-mobile.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-mobile.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-news.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-news.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-partners.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-partners.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-partners.png",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-partners.png"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-portfolio.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-portfolio.jpg"
+    },
+    {
+      "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/Images/wellabe/ventures/ventures-tablet.jpg",
+      "PackagePath": "staticwebassets/Images/wellabe/ventures/ventures-tablet.jpg"
+    },
+    {
       "Id": "/Users/luke/Documents/GitHub/lukeh17.github.io/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
